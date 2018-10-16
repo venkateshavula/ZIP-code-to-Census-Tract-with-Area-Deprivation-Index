@@ -82,4 +82,4 @@ write.table(ADI,"ADI.txt",row.names=F,quote=FALSE,sep="\u0001")
 
 ###### <i><em> References </i></em>:-
 
-<small> U.S. Census Bureau:<i> <https://www.census.gov/geo/reference/codes/cou.html> </i></br> U.S. Department of Housing and Urban Development:<i><https://www.huduser.gov/portal/datasets/usps_crosswalk.html> </i></br> University of Wisconsin School of Medicine and Public Health. Area Deprivation Index:<i> <https://www.neighborhoodatlas.medicine.wisc.edu/> </i> </small>
+<small> U.S. Census Bureau:<i> <https://www.census.gov/geo/reference/codes/cou.html> </i></br> U.S. Department of Housing and Urban Development:<i><https://www.huduser.gov/portal/datasets/usps_crosswalk.html> </i></br> University of Wisconsin School of Medicine and Public Health:<i> <https://www.neighborhoodatlas.medicine.wisc.edu/> </i> </small>
